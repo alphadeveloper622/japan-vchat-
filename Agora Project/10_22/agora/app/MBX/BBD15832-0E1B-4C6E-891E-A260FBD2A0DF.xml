@@ -1,0 +1,1011 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="BBD15832-0E1B-4C6E-891E-A260FBD2A0DF" platform="MtWeb" defaultW="1400" defaultH="2000" measureW="1400" measureH="2000" mobileScreenScale="0">
+  <controls controlCount="93">
+    <control controlID="96CB5301-4155-471D-99E6-B1CA1F17FB8A" controlTypeID="ScrollView" x="0" y="0" w="1400" h="1776" zOrder="0">
+      <borderVisible>False</borderVisible>
+      <groupChildrenDescriptors>
+        <control controlID="1FB368B8-159E-47D6-A588-5889CD81CF34" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="1404" h="2932" zOrder="0">
+          <caption>Scroll+ViewPort</caption>
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="E8704E5F-BB79-46F7-BF4B-8B62A119BAB7" controlTypeID="Image" x="0" y="140" w="1400" h="600" zOrder="0">
+              <opacity>0.300000011920929</opacity>
+              <showText>False</showText>
+            </control>
+            <control controlID="8AE54F44-5522-4C18-AAA3-797E3D4AA9B2" controlTypeID="__group__" x="0" y="739" w="1400" h="600" zOrder="1">
+              <groupChildrenDescriptors>
+                <control controlID="E40F6C45-BA52-483C-B41F-74934D2D4A27" controlTypeID="Shape" x="0" y="0" w="1400" h="600" zOrder="0">
+                  <color>4293190884</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="213B75DE-BF4F-444C-B104-8E1F64D07B94" controlTypeID="Image" x="0" y="0" w="1400" h="600" zOrder="1">
+                  <opacity>0.5</opacity>
+                  <showText>False</showText>
+                </control>
+                <control controlID="C1799988-995A-4270-9D9E-0B5EC6C72EA6" controlTypeID="Label" x="631" y="202" w="133" h="19" zOrder="2">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Fall-Winter+2017%2F18</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="52BBBF31-A1CC-421D-8042-D3D2D3EDABA0" controlTypeID="Label" x="517" y="246" w="356" h="40" zOrder="3">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>HAUTE+COUTURE+SHOW</text>
+                  <textSize>30</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="B8BF8574-7A2D-4CB5-AE20-26AAA4773417" controlTypeID="Shape" x="620" y="338" w="160" h="60" zOrder="4">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="73654E32-20EB-4450-B543-A89F09FDEF4B" controlTypeID="Label" x="666" y="358" w="63" h="19" zOrder="5">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>See+more</text>
+                  <textColor>4294967295</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="89FF32FD-24EB-4275-AC84-9CFC76F5DE85" controlTypeID="__group__" x="0" y="1338" w="1400" h="570" zOrder="2">
+              <groupChildrenDescriptors>
+                <control controlID="E26BBFE4-E540-416E-B28E-5A9C11A01493" controlTypeID="Shape" x="0" y="0" w="1400" h="570" zOrder="0">
+                  <color>4281742902</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="89CF15EA-3448-423E-8454-A35031047D54" controlTypeID="Image" x="620" y="57" w="160" h="50" zOrder="1">
+                  <caption>Logo</caption>
+                </control>
+                <control controlID="5AA083D5-B146-46D6-9636-61BEA87019F9" controlTypeID="Link" x="172" y="194" w="138" h="19" zOrder="2">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+                  <text>Explore+Chanel.com</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[fsBold]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D16D779C-15E7-4D5A-B214-E28F3C2BCF57" controlTypeID="Link" x="172" y="235" w="50" h="19" zOrder="3">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Fashion</text>
+                  <textColor>4288782753</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="BA93E211-62A5-4ED9-B7B9-31CAF70D18E6" controlTypeID="Link" x="172" y="264" w="57" h="19" zOrder="4">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Watches</text>
+                  <textColor>4288782753</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="F693251E-58A4-419A-9C72-3F90CE347B0A" controlTypeID="Link" x="172" y="293" w="81" h="19" zOrder="5">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <opacity>0.800000011920929</opacity>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Fine+Jewelry</text>
+                  <textColor>4288782753</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="8F1388BC-3D59-4731-9A3A-EE9113F0CBAC" controlTypeID="Link" x="172" y="322" w="55" h="19" zOrder="6">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <opacity>0.800000011920929</opacity>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Eyewear</text>
+                  <textColor>4288782753</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="C218255A-4F2F-4337-9429-2EB6F152111F" controlTypeID="Link" x="172" y="350" w="66" h="19" zOrder="7">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Fragrance</text>
+                  <textColor>4288782753</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="2450A63C-19DD-434E-9C9E-FBC96213C8B6" controlTypeID="Link" x="172" y="379" w="54" h="19" zOrder="8">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Makeup</text>
+                  <textColor>4288782753</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="EB5A7311-EA59-4BF4-B772-D287301675D4" controlTypeID="Link" x="172" y="408" w="56" h="19" zOrder="9">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="100" varType="4"/>
+                  </states>
+                  <opacity>0.800000011920929</opacity>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Skincare</text>
+                  <textColor>4288782753</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="948A1FCC-1740-4A4A-B7D5-CE2B817AE142" controlTypeID="Link" x="477" y="194" w="126" h="19" zOrder="10">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+                  <text>ONLINE+SERVICES</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[fsBold]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="EA0B22AB-8E3F-44F6-A301-C01A1E0994AA" controlTypeID="Link" x="477" y="235" w="122" h="19" zOrder="11">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Payment+Methods</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="7BF488DF-6486-45CF-BA04-B75D96F181F0" controlTypeID="Link" x="477" y="263" w="116" h="19" zOrder="12">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Shipping+Options</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="0D002035-3EF5-4C65-84BF-8F9AEA4185A4" controlTypeID="Link" x="477" y="291" w="80" h="19" zOrder="13">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>My+Account</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="092E64C4-F56F-40E6-AEB7-1BB43C7D1F96" controlTypeID="Link" x="477" y="320" w="51" h="19" zOrder="14">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Returns</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="77B15A5C-BCCD-4CB9-BDC3-5CB0B9A11BA3" controlTypeID="Link" x="477" y="348" w="29" h="19" zOrder="15">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>FAQ</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="21F643B2-26AE-4B34-B32F-4EA502CBCEB2" controlTypeID="Link" x="652" y="521" w="108" h="19" zOrder="16">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Change+location</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="A35235F4-F7D9-415C-B68F-466E8A687D2D" controlTypeID="Link" x="1079" y="194" w="169" h="19" zOrder="17">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+                  <text>THE+HOUSE+OF+CHANEL</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[fsBold]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="1580A943-49E5-4C0C-BFAE-B6EBE26584B8" controlTypeID="Link" x="1079" y="235" w="93" h="19" zOrder="18">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>+Inside+Chanel</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="186FC0D8-F4F7-44AD-85EF-234A2680FCD5" controlTypeID="Link" x="1079" y="263" w="50" h="19" zOrder="19">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Careers</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="2113FCFA-18B5-44A3-AE04-8C8ADABCE983" controlTypeID="Link" x="1079" y="291" w="117" h="19" zOrder="20">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Fondation+Chanel</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="9C290455-3383-4204-A10E-A85C27D00B18" controlTypeID="Link" x="1079" y="320" w="34" h="19" zOrder="21">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Legal</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="0104BA27-3669-403A-B486-783DA228DFFB" controlTypeID="Link" x="1079" y="346" w="47" h="19" zOrder="22">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Privacy</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="D288FC5D-89A8-4A22-9847-22C6B726D157" controlTypeID="Link" x="1079" y="373" w="116" h="19" zOrder="23">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Report+to+Society</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="A19EF74E-B2F8-4B02-9C94-C770487EFFF7" controlTypeID="Link" x="762" y="194" w="146" h="19" zOrder="24">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+                  <text>BOUTIQUE+SERVICES</text>
+                  <textColor>4294967295</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[fsBold]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="F05280FD-06C5-430C-AD96-806587D37EF5" controlTypeID="Link" x="762" y="235" w="90" h="19" zOrder="25">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>Store+Locator</text>
+                  <textColor>4289638062</textColor>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <textStyles>[]</textStyles>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="932596DE-B4C0-49E7-A025-0675E641A1FD" controlTypeID="Line" x="178" y="488" w="1074" h="1" zOrder="26">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                  <controlPoint>(537,0)</controlPoint>
+                  <startPoint>(0,0)</startPoint>
+                  <endPoint>(1074,0)</endPoint>
+                </control>
+                <control controlID="1A882464-FC25-4ADC-B15D-4133E754D592" controlTypeID="Icon" x="1101" y="513" w="22" h="22" zOrder="27">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <color>4290559164</color>
+                  <icon>
+                    <ID/>
+                    <iconFontName>jdFontAwesome</iconFontName>
+                    <iconCode>61805</iconCode>
+                  </icon>
+                  <URL>145C355EFED887C1A70F3F55FC4956ED.svg</URL>
+                </control>
+                <control controlID="9C909697-CAF0-4DC5-A9D4-704C8029462D" controlTypeID="Icon" x="1147" y="513" w="22" h="22" zOrder="28">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <color>4290559164</color>
+                  <icon>
+                    <ID/>
+                    <iconFontName>jdIonicons</iconFontName>
+                    <iconCode>62009</iconCode>
+                  </icon>
+                  <URL>4B1F1033188A54BDA32C6005C2458136.svg</URL>
+                </control>
+                <control controlID="5E19459D-52DA-47D3-A1D8-F9DBB810E514" controlTypeID="Icon" x="1187" y="513" w="22" h="22" zOrder="29">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <color>4290559164</color>
+                  <icon>
+                    <ID/>
+                    <iconFontName>jdFontAwesome</iconFontName>
+                    <iconCode>61594</iconCode>
+                  </icon>
+                  <URL>D490C652DAD7B0B7B04404FDF6724B82.svg</URL>
+                </control>
+                <control controlID="29FC3441-2467-4DA8-AC6C-01B808752608" controlTypeID="Icon" x="1229" y="513" w="22" h="22" zOrder="30">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <color>4290559164</color>
+                  <icon>
+                    <ID/>
+                    <iconFontName>jdIonicons</iconFontName>
+                    <iconCode>62019</iconCode>
+                  </icon>
+                  <URL>6E397F998770B38A343BB5B849DF19E9.svg</URL>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+            <control controlID="77402A2F-BC44-4A82-80A5-5EA595CF8FA8" controlTypeID="__group__" x="517" y="367" w="366" h="196" zOrder="3">
+              <groupChildrenDescriptors>
+                <control controlID="1C8DC814-2123-4F85-AD5C-E187B1209C93" controlTypeID="Label" x="102" y="0" w="157" h="19" zOrder="0">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>SPRING-SUMMER+2018</text>
+                  <lineSpacing>0</lineSpacing>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="14DF2E2E-5458-45B8-A6D1-AC804927C4EE" controlTypeID="Label" x="0" y="44" w="356" h="40" zOrder="1">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>HAUTE+COUTURE+SHOW</text>
+                  <textSize>30</textSize>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="3999713A-BD68-41A9-9C3D-C6A6E926249A" controlTypeID="Shape" x="103" y="136" w="160" h="60" zOrder="2">
+                  <states>
+                    <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+                  </states>
+                  <color>4288256409</color>
+                  <borderVisible>False</borderVisible>
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <textSize>14</textSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+                <control controlID="56DCB5DC-5A93-4C69-BC14-F325F7C9E37D" controlTypeID="Label" x="149" y="156" w="63" h="19" zOrder="3">
+                  <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+                  <text>See+more</text>
+                  <textColor>4294967295</textColor>
+                  <lineSpacing>0</lineSpacing>
+                  <useDefaultTextSize>False</useDefaultTextSize>
+                  <selectedIndex>-1</selectedIndex>
+                </control>
+              </groupChildrenDescriptors>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="ECEC801B-012D-44E5-9F60-196986217B5C" controlTypeID="Border" x="0" y="0" w="1400" h="1776" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <borderVisible>False</borderVisible>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <canHoriScroll>True</canHoriScroll>
+    </control>
+    <control controlID="CAEAE461-1D6E-43B5-8E47-6ADC9D0CB54F" controlTypeID="Shape" x="0" y="0" w="1400" h="140" zOrder="1">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <borderMode>[bmTop]</borderMode>
+      <thickness>10</thickness>
+    </control>
+    <control controlID="2DCE297D-9700-4207-9FD1-D2CA6094EF25" controlTypeID="Image" x="620" y="20" w="160" h="50" zOrder="2">
+      <caption>Logo</caption>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="CE7FEDC9-C8D8-4AEC-814E-46B4B153C564" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{F591BBFD-6B6E-449D-A27A-ACFF878A499B}" coords="(0,0,160,50)"/>
+        </link>
+      </links>
+    </control>
+    <control controlID="FF5B5DEE-B567-4403-939B-022BC04FFC71" controlTypeID="Icon" x="1182" y="31" w="22" h="22" zOrder="3">
+      <states>
+        <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+      </states>
+      <interactiveData>
+        <entry title="">
+          <area shape="0" alt="" ID="{60299B6B-F98C-4F4B-B9BB-C286DC77FD24}" coords="(0,0,22,22)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="0B5523BF-4C85-477E-AFE2-B4676D5C2952" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="0" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+      </interactiveData>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62629</iconCode>
+      </icon>
+      <URL>6EE140726548992D82F763CCD21EF6A1.svg</URL>
+    </control>
+    <control controlID="2843D1FE-0E4A-4F96-8F21-11AC35C4996B" controlTypeID="Icon" x="1231" y="31" w="22" h="22" zOrder="4">
+      <states>
+        <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+      </states>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="14EC5678-BD16-4092-BC01-062D96581958" linkType="ltPageLink" isApplyIncludePage="False" title="Account">
+          <area shape="0" alt="" ID="{D0CD6EA0-457B-4891-893D-3B1BFB60FC74}" coords="(0,0,22,22)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdiconfontB</iconFontName>
+        <iconCode>59648</iconCode>
+      </icon>
+      <URL>42CF9E031360EBC09387427849BF6328.svg</URL>
+    </control>
+    <control controlID="452F8F3A-E048-4198-83A6-92DD1561A481" controlTypeID="Icon" x="1282" y="30" w="24" h="24" zOrder="5">
+      <states>
+        <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+      </states>
+      <icon>
+        <ID/>
+        <iconFontName>jdIcoMoonFree</iconFontName>
+        <iconCode>59863</iconCode>
+      </icon>
+      <URL>301A71047160F84329923E04829C6035.svg</URL>
+    </control>
+    <control controlID="71549C83-B09C-41D9-871F-3E5B87B931FE" controlTypeID="Icon" x="1332" y="31" w="22" h="22" zOrder="6">
+      <states>
+        <state propName="Alpha100" stateType="state_mouseOver" isChecked="True" value="80" varType="4"/>
+      </states>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61591</iconCode>
+      </icon>
+      <URL>BC6C2BC3C03177B465CC13AD05BEA0F0.svg</URL>
+    </control>
+    <control controlID="0B5523BF-4C85-477E-AFE2-B4676D5C2952" controlTypeID="Panel" x="174" y="140" w="1086" h="236" zOrder="7">
+      <isShow>False</isShow>
+      <borderColor>4292335575</borderColor>
+      <groupChildrenDescriptors>
+        <control controlID="AD68E6C4-0B9A-475E-9E58-9EF4BE3316E4" controlTypeID="Search" x="239" y="101" w="608" h="40" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <textSize>14</textSize>
+          <textVAlign>VaTop</textVAlign>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="83BE9972-DAC1-45C6-9941-E5E4AC326D47" controlTypeID="Icon" x="1028" y="38" w="24" h="24" zOrder="1">
+          <interactiveData>
+            <entry title="">
+              <area shape="0" alt="" ID="{B3AE00AA-1B09-4F57-96D2-4B17F6FA76E8}" coords="(0,0,60,60)"/>
+              <events title="">
+                <event eventType="atClick" isChecked="True">
+                  <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                    <target targetID="0B5523BF-4C85-477E-AFE2-B4676D5C2952" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Change Visibility" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="1" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                        <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                        <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                        <param name="Value" value="1" varType="3" description=""/>
+                        <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                      </command>
+                      <command name="Change Visibility" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="1" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                        <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                        <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                        <param name="Value" value="1" varType="3" description=""/>
+                        <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                      </command>
+                    </target>
+                  </behaviour>
+                </event>
+              </events>
+            </entry>
+          </interactiveData>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62318</iconCode>
+          </icon>
+          <URL>DB7FC814F441C17601BBA7EA29C0CC4C.svg</URL>
+        </control>
+        <control controlID="88AA9929-C8D1-4ECA-AF3E-960480954386" controlTypeID="Border" x="0" y="0" w="1086" h="236" zOrder="2">
+          <borderColor>4292335575</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="44B0F84E-9CA8-4E32-B0ED-A3B2BC0B7951" controlTypeID="Tabs" x="176" y="92" w="1077" h="48" zOrder="8">
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="BBD15832-0E1B-4C6E-891E-A260FBD2A0DF" linkType="ltPageLink" isApplyIncludePage="False" title="HAUTE+COUTURE">
+          <area shape="0" alt="" ID="{710B8F1D-01B4-40B3-8F23-12288EA35B71}" coords="(0,0,118.666664123535,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="FASHION">
+          <area shape="0" alt="" ID="{C552813C-39E3-4B18-8756-B0604E85CA89}" coords="(119.666664123535,0,238.33332824707,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="WATCHES">
+          <area shape="0" alt="" ID="{B79621CD-5808-40BE-AA92-6EC962ED84CD}" coords="(239.33332824707,0,358,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="FINE+JEWELRY">
+          <area shape="0" alt="" ID="{8E1A526F-3723-443E-AC56-900531074572}" coords="(359,0,477.666656494141,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="EYEWEAR">
+          <area shape="0" alt="" ID="{F4FC47C1-DD6F-4AE3-97AB-CD4A5297A48C}" coords="(478.666656494141,0,597.333312988281,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="FRAGRANCE">
+          <area shape="0" alt="" ID="{8218E54C-41DD-454B-9F19-1495B9BB418E}" coords="(598.333312988281,0,717,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="MAKEUP">
+          <area shape="0" alt="" ID="{BD97DEDE-405B-41C2-AA3A-26196F0DC3C6}" coords="(718,0,836.666687011719,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="SKINCARE">
+          <area shape="0" alt="" ID="{3D6C8D81-F51A-4F3F-A873-8BF2AE62915D}" coords="(837.666687011719,0,956.333374023438,48)"/>
+        </link>
+        <link targetPageID="" linkType="ltPageLink" isApplyIncludePage="False" title="SKINCARE">
+          <area shape="0" alt="" ID="{F17297EF-5F85-4336-821B-4F02D30DECF9}" coords="(957.333374023438,0,1076,48)"/>
+        </link>
+      </links>
+      <interactiveData>
+        <entry title="HAUTE+COUTURE">
+          <area shape="0" alt="" ID="{94B7786F-DE43-4711-A532-574D0DBA08AF}" coords="(0,0,118.666664123535,48)"/>
+          <events title=""/>
+        </entry>
+        <entry title="FASHION">
+          <area shape="0" alt="" ID="{0FF12682-281B-4597-B446-C6FF6791CDE2}" coords="(119.666664123535,0,238.33332824707,48)"/>
+          <events title="">
+            <event eventType="atClick" isChecked="True">
+              <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                <target targetID="5D7CAE0A-5057-403E-A273-140A7C3858FC" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                  <command name="Change Visibility" isChecked="True" descrition="">
+                    <param name="AniInterpolation" value="1" varType="3" description=""/>
+                    <param name="AniDuration" value="200" varType="3" description=""/>
+                    <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                    <param name="AniLoop" value="False" varType="11" description=""/>
+                    <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                    <param name="Delay" value="0" varType="3" description=""/>
+                    <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                    <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                    <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                    <param name="Value" value="0" varType="3" description=""/>
+                    <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                  </command>
+                </target>
+              </behaviour>
+            </event>
+          </events>
+        </entry>
+        <entry title="WATCHES">
+          <area shape="0" alt="" ID="{9877AA7D-450F-4CF2-AA9A-CCED08FB626D}" coords="(239.33332824707,0,358,48)"/>
+          <events title=""/>
+        </entry>
+        <entry title="FINE+JEWELRY">
+          <area shape="0" alt="" ID="{A25B7F1F-AEB2-4C95-B1CD-273E02A0591F}" coords="(359,0,477.666656494141,48)"/>
+          <events title=""/>
+        </entry>
+        <entry title="EYEWEAR">
+          <area shape="0" alt="" ID="{67E19358-A5D9-49E3-9EF8-153853D28D02}" coords="(478.666656494141,0,597.333312988281,48)"/>
+          <events title=""/>
+        </entry>
+        <entry title="FRAGRANCE">
+          <area shape="0" alt="" ID="{D5124747-2F4E-4674-9EB5-60EF1C13376E}" coords="(598.333312988281,0,717,48)"/>
+          <events title=""/>
+        </entry>
+        <entry title="MAKEUP">
+          <area shape="0" alt="" ID="{1A6B2EDC-FBC8-4178-9EB0-3AB7489BE8AE}" coords="(718,0,836.666687011719,48)"/>
+          <events title=""/>
+        </entry>
+        <entry title="SKINCARE">
+          <area shape="0" alt="" ID="{C36CA79E-124F-48A1-BAD6-A7EC2CFF31C4}" coords="(837.666687011719,0,956.333374023438,48)"/>
+          <events title=""/>
+        </entry>
+        <entry title="SKINCARE">
+          <area shape="0" alt="" ID="{E99D3C2D-37FC-48A6-8787-D73711660944}" coords="(957.333374023438,0,1076,48)"/>
+          <events title=""/>
+        </entry>
+      </interactiveData>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>HAUTE+COUTURE%2CFASHION%2CWATCHES%2CFINE+JEWELRY%2CEYEWEAR%2CFRAGRANCE%2CMAKEUP%2CSKINCARE%2CSKINCARE</text>
+      <textColor>4279966491</textColor>
+      <textSize>14</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedColor>4279966491</selectedColor>
+      <dividerPercentHeight>0</dividerPercentHeight>
+    </control>
+    <control controlID="5D7CAE0A-5057-403E-A273-140A7C3858FC" controlTypeID="Panel" x="176" y="140" w="1084" h="385" zOrder="9">
+      <isShow>False</isShow>
+      <groupChildrenDescriptors>
+        <control controlID="A2DC186E-52A2-4932-8A45-4DFFAF272C24" controlTypeID="Link" x="394" y="29" w="221" h="19" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Exclusively+available+in+Boutiques</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="D46E0DAC-5AC3-4752-82C5-F19D9B064FBF" controlTypeID="Image" x="28" y="89" w="139" h="150" zOrder="1">
+          <opacity>0.600000023841858</opacity>
+        </control>
+        <control controlID="B4E5DA12-BF18-4CDE-80DB-C3C2861B254F" controlTypeID="__group__" x="28" y="257" w="111" h="19" zOrder="2">
+          <groupChildrenDescriptors>
+            <control controlID="D9A26C96-86C3-41BF-9819-0021E1FA7FBA" controlTypeID="Label" x="0" y="0" w="94" h="19" zOrder="0">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Fashion+home</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="0D95E65B-E11D-4672-99A3-5408FFBFA628" controlTypeID="Icon" x="99" y="4" w="12" h="12" zOrder="1">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62419</iconCode>
+              </icon>
+              <URL>2E967326C22523F5F084001B9F4E5BC7.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="68DC7D21-C1CA-4D54-AFEC-A9FDADFDE44A" controlTypeID="__group__" x="205" y="302" w="121" h="19" zOrder="3">
+          <groupChildrenDescriptors>
+            <control controlID="F639D77F-DB49-4991-9F21-A2937AB47459" controlTypeID="Label" x="0" y="0" w="106" h="19" zOrder="0">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+              <text>CHANEL+NEWS</text>
+              <lineSpacing>0</lineSpacing>
+              <textStyles>[fsBold]</textStyles>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="AE20FEAD-666E-4CDF-886F-3D8B90927ED0" controlTypeID="Icon" x="109" y="3" w="12" h="12" zOrder="1">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62419</iconCode>
+              </icon>
+              <URL>2E967326C22523F5F084001B9F4E5BC7.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="75DD17A3-FD5B-431C-9D0C-28B02C7C8BAE" controlTypeID="Label" x="205" y="86" w="77" h="19" zOrder="4">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="EB04CF5B-BC71-4180-B5EC-127A2432F686" linkType="ltPageLink" isApplyIncludePage="False" title="Description">
+              <area shape="0" alt="" ID="{1665E323-F250-4DE9-A843-D8A5E7578138}" coords="(0,0,60,60)"/>
+            </link>
+          </links>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Collections</text>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="7B852212-35B8-49B1-930F-9B9BBCC42914" controlTypeID="Label" x="422" y="86" w="111" h="19" zOrder="5">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Ready-To-Wear</text>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="9A3A00C7-41BC-4318-B82B-043B0C2864EE" controlTypeID="Label" x="631" y="86" w="71" h="19" zOrder="6">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Handbags</text>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3E2F24E0-48A8-4CB4-8F7D-9EB239F9669D" controlTypeID="Label" x="866" y="86" w="81" h="19" zOrder="7">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+          <text>Accessories</text>
+          <lineSpacing>0</lineSpacing>
+          <textStyles>[fsBold]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C551CE2D-921C-4F8D-9B0B-9FA014D454F4" controlTypeID="Link" x="205" y="130" w="100" h="19" zOrder="8">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Cruise+2018%2F19</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="98C44B82-CCA8-4084-B024-B5DE096D7E5F" controlTypeID="Link" x="422" y="130" w="47" h="19" zOrder="9">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Jackets</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="7307BB67-E722-44B2-94EA-0552ACD58FDF" controlTypeID="Link" x="631" y="130" w="111" h="19" zOrder="10">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Handbag+Stories</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="2B1AEBD6-6772-41A6-A91F-CAFE9F06107F" controlTypeID="Link" x="866" y="130" w="39" h="19" zOrder="11">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Shoes</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="59E9DE53-10AE-48E8-8BCC-0C97A0AD655A" controlTypeID="Link" x="205" y="163" w="132" h="19" zOrder="12">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Fall-Winter+2018%2F19</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="67B45664-2E5E-4D56-B242-D6AB811D0D6D" controlTypeID="Link" x="422" y="163" w="51" h="19" zOrder="13">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Dresses</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F06788B1-7BD5-419D-968A-DE2F72221513" controlTypeID="Link" x="631" y="163" w="112" h="19" zOrder="14">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>New+This+Season</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="F342BEE2-90A6-4222-A018-51109F447212" controlTypeID="Link" x="866" y="163" w="138" h="19" zOrder="15">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Small+Leather+Goods</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="B596CF32-37B5-4971-AF44-E082E9E2BD94" controlTypeID="Link" x="205" y="244" w="142" h="19" zOrder="16">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Spring-Summer+2018</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="66CCBE0B-F135-48A3-99B3-9C9A34176096" controlTypeID="Link" x="422" y="230" w="147" h="19" zOrder="17">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Cardigans+%26+Pullovers</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="26D8B8C3-69CD-4887-A44C-5B9224F63509" controlTypeID="Link" x="631" y="230" w="89" h="19" zOrder="18">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>BOY+CHANEL</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3BE0B909-A1D2-4416-905F-123F627D4D0C" controlTypeID="Link" x="866" y="230" w="49" h="19" zOrder="19">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Scarves</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="61F35DE8-1502-459E-A61E-EF8B47A50EC9" controlTypeID="Link" x="422" y="265" w="36" h="19" zOrder="20">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Skirts</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="A39767CC-2A65-45C8-A2EA-372287071C8A" controlTypeID="Link" x="631" y="265" w="173" h="19" zOrder="21">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>CHANEL'S+GABRIELLE+Bag</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="7E97B80C-8A0A-4597-B07E-FA0943587EE3" controlTypeID="Link" x="866" y="265" w="63" h="19" zOrder="22">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Camellias</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="210973FC-A1D1-4766-B00C-FCAE851F0C44" controlTypeID="TextArea" x="205" y="196" w="198" h="42" zOrder="23">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>M%C3%A9tiers+d'Art+Paris-Hamburg+2017%2F18</text>
+          <textStyles>[fsUnderline]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="93725056-BBAC-46B9-9A6C-D22DB89EADA3" controlTypeID="TextArea" x="422" y="196" w="198" h="42" zOrder="24">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Blouses+%26+Tops</text>
+          <textStyles>[fsUnderline]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="61971B57-9510-422C-983A-DAE038C58B9B" controlTypeID="TextArea" x="631" y="196" w="198" h="21" zOrder="25">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Iconics</text>
+          <textStyles>[fsUnderline]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="0AE1C9F9-0782-4B05-899F-3D5B3550C57C" controlTypeID="TextArea" x="866" y="196" w="198" h="21" zOrder="26">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Costume+Jewelry%0D%0A%09++++++++</text>
+          <textStyles>[fsUnderline]</textStyles>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="179654C6-4551-48EF-9F77-7A054FBE4E38" controlTypeID="Icon" x="1034" y="20" w="24" h="24" zOrder="27">
+          <interactiveData>
+            <entry title="">
+              <area shape="0" alt="" ID="{DD2F07D9-C3CA-4D34-BC00-9A4E10809FB5}" coords="(0,0,60,60)"/>
+              <events title="">
+                <event eventType="atClick" isChecked="True">
+                  <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                    <target targetID="5D7CAE0A-5057-403E-A273-140A7C3858FC" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Change Visibility" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="1" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                        <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                        <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                        <param name="Value" value="1" varType="3" description=""/>
+                        <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                      </command>
+                    </target>
+                  </behaviour>
+                </event>
+              </events>
+            </entry>
+          </interactiveData>
+          <icon>
+            <ID/>
+            <iconFontName>jdIonicons</iconFontName>
+            <iconCode>62318</iconCode>
+          </icon>
+          <URL>DB7FC814F441C17601BBA7EA29C0CC4C.svg</URL>
+        </control>
+        <control controlID="5E7C2E28-1076-4064-8F5C-8D96408D1CB3" controlTypeID="Border" x="0" y="0" w="1084" h="385" zOrder="28">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines>
+      <guideLine isLocked="False" isHori="False" value="2244"/>
+      <guideLine isLocked="False" isHori="True" value="175"/>
+      <guideLine isLocked="False" isHori="True" value="1256"/>
+      <guideLine isLocked="False" isHori="False" value="2225"/>
+    </guideLines>
+  </param>
+</mockup>

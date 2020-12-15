@@ -1,0 +1,187 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="9AC6B032-D90D-452B-B233-2C7F3D58066D" platform="MtWeb" defaultW="1928" defaultH="1024" measureW="1928" measureH="1024" mobileScreenScale="0">
+  <controls controlCount="21">
+    <control controlID="ADF8983C-6984-46E9-AD9B-E979BFDE7456" controlTypeID="Shape" x="520" y="84" w="962" h="842" zOrder="0">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="50432A07-C73D-4FA9-8186-C080085D21E1" controlTypeID="Label" x="914" y="136" w="169" h="80" zOrder="1">
+      <font family="System" displayName="System_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Agora</text>
+      <textColor>4283964312</textColor>
+      <textSize>60</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C1E69FCC-48D2-467B-908B-C1A9F165FC8E" controlTypeID="Label" x="873" y="234" w="248" h="38" zOrder="2">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Create+your+account</text>
+      <textSize>28</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8FC8EE71-73E9-4F46-8ABA-156EEA81024D" controlTypeID="Shape" x="649" y="314" w="700" h="70" zOrder="3">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="7218B90E-9781-4FB2-8630-3C485ACDFD95" controlTypeID="Shape" x="649" y="426" w="316" h="70" zOrder="4">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="E0B0A4AE-0319-4425-8FB2-97248F15D3C2" controlTypeID="Icon" x="669" y="337" w="24" h="24" zOrder="5">
+      <color>4290559164</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62590</iconCode>
+      </icon>
+      <URL>5C55E17C830A8188121F30E4B3398557.svg</URL>
+    </control>
+    <control controlID="AA74FCFC-7D9A-404D-845D-9FCEA574E241" controlTypeID="Icon" x="669" y="450" w="24" h="24" zOrder="6">
+      <color>4290559164</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62499</iconCode>
+      </icon>
+      <URL>92F9F955CF788281C0EEF7861CFF0975.svg</URL>
+    </control>
+    <control controlID="05153BD8-0073-4BBA-902F-C6429D96CB3A" controlTypeID="Label" x="714" y="335" w="52" h="27" zOrder="7">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Name</text>
+      <textColor>4287927444</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4D630743-4D06-49C0-9F84-70981685ECDB" controlTypeID="Label" x="713" y="447" w="46" h="27" zOrder="8">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Email</text>
+      <textColor>4287927444</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FB5E2751-F513-4516-85E1-9EA65A89C272" controlTypeID="Button" x="649" y="747" w="700" h="70" zOrder="9">
+      <color>4283964312</color>
+      <borderVisible>False</borderVisible>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>LOGIN</text>
+      <textColor>4294967295</textColor>
+      <textSize>32</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1AE48DBE-6859-4E0D-976C-03F20058A307" controlTypeID="Label" x="795" y="847" w="342" h="32" zOrder="10">
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="58B080C3-6A7B-4B3A-BB64-88C8F0E1A539" linkType="ltPageLink" isApplyIncludePage="False" title="Login">
+          <area shape="0" alt="" ID="{8CA34C8F-B873-4FEB-ACF8-0117F167512E}" coords="(0,0,342,32)"/>
+        </link>
+      </links>
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Have+an+account%3F+Click+to+Login!</text>
+      <textColor>4283964312</textColor>
+      <textSize>24</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="17C5A56B-CA9F-4DFD-96CD-88B42131546D" controlTypeID="Shape" x="1033" y="426" w="316" h="70" zOrder="11">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="54FE17A6-11D6-4F4D-9CE9-178EB262D7DE" controlTypeID="Icon" x="1053" y="450" w="24" h="24" zOrder="12">
+      <color>4290559164</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62168</iconCode>
+      </icon>
+      <URL>A4BBA5CCC7880CC1D7108AAE4A99AB6E.svg</URL>
+    </control>
+    <control controlID="5720D51D-686A-4DFC-9627-719BD6FB1681" controlTypeID="Label" x="1097" y="447" w="88" h="27" zOrder="13">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Username</text>
+      <textColor>4287927444</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="5AB937C8-0F48-4269-9378-6B4C4B962D10" controlTypeID="Shape" x="649" y="541" w="316" h="70" zOrder="14">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="93C027EA-DC34-4B18-89E7-7540B545F8C8" controlTypeID="Icon" x="669" y="565" w="24" h="24" zOrder="15">
+      <color>4290559164</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61572</iconCode>
+      </icon>
+      <URL>6495B2C22D4926A46ABCB92DB804A9DD.svg</URL>
+    </control>
+    <control controlID="21956034-9CCE-4FB8-A1E7-1149735022A1" controlTypeID="Label" x="713" y="562" w="81" h="27" zOrder="16">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Password</text>
+      <textColor>4287927444</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CD3D58BD-3F2B-4E35-B49A-74DA022617DA" controlTypeID="Shape" x="1033" y="541" w="316" h="70" zOrder="17">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>8</radius>
+    </control>
+    <control controlID="928EE49E-9D3B-48FE-96A9-742EBC8DA263" controlTypeID="Icon" x="1053" y="565" w="24" h="24" zOrder="18">
+      <color>4290559164</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdFontAwesome</iconFontName>
+        <iconCode>61572</iconCode>
+      </icon>
+      <URL>6495B2C22D4926A46ABCB92DB804A9DD.svg</URL>
+    </control>
+    <control controlID="F2E82A33-D8B3-4C60-8C67-76F9B2055844" controlTypeID="Label" x="1097" y="562" w="157" h="27" zOrder="19">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Confirm+Password</text>
+      <textColor>4287927444</textColor>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FDC75752-E3C5-4E8B-BBA1-359DC4B3699A" controlTypeID="TextArea" x="635" y="648" w="740" h="82" zOrder="20">
+      <font family="Segoe+UI" displayName="Segoe+UI" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>By+clicking+on+Register%2C+you+agree+to+our+Terms+of+Service+and%0D%0A+Privacy+Policy.%0D%0A</text>
+      <textSize>24</textSize>
+      <textAlign>HaCenter</textAlign>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4283964312</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,12 @@
+user: Administrator
+password:  IPdl?6aR6=VPdpP344Bz?oPNE3h95S5Y
+
+public ip
+ 3.112.189.9
+public domain
+ec2-3-112-189-9.ap-northeast-1.compute.amazonaws.com
+
+domain:  ec2-3-112-189-9.ap-northeast-1.compute.amazonaws.com
+
+anydesk
+265 560 986

@@ -1,0 +1,4 @@
+ipaddress: 3.135.207.17
+DB(MYSQL)
+USER:root
+PASSWORD:VXCGC27Sui6D

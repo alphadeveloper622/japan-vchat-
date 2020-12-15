@@ -1,0 +1,29 @@
+ I hope to update the project schedule follow as:
+ 
+ 3-milestone.
+	task : 
+		It is to integrate Agora and backend in this step.
+		It will implement the main functions like as video-calling, audio-calling, screenshare function by using agora.io.
+		Also, it will implement the instant meeting, live-chatting functions.
+	deadline : 
+		25 days.	
+	budget : 
+		240500JPY
+		
+4-milestone
+	task : 1) repaire for 3-milestone. 
+	       2) connecting between website and win app(your module).
+	
+	deadline :10days 
+	
+	budget :
+		50000JPY
+	
+5-milestone:
+	task : makeing connecting between each other Win apps  though website.	
+	
+	deadline:10days
+	
+	budget:
+		50000JPY   
+ -----total budget 500000JPY

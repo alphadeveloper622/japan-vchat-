@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" standalone="no"?>
+<svg width="64" height="64" viewBox="0 0 384 384" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <path d="M192 128l128 128v-240h-320v304h256l-128 -128v-64h64zM324 356l32 -32l-180 -180h-32v32zM380 368c2 -3 4 -6 4 -10s-2 -7 -4 -10l-12 -12l-21 21l-11 11v0l12 12c3 2 6 4 10 4s7 -2 10 -4z" transform="matrix(1,0,0,-1,0,384)"/>
+</svg>

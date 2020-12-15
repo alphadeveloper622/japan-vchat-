@@ -1,0 +1,77 @@
+<master version="5.3" minAllowVersion="5.3" ID="A3510D9C-37B2-46C2-A006-C0528BE067FE">
+  <controls>
+    <control controlID="0A03E53C-9F98-4C34-88CA-85D8D908F938" controlTypeID="Master" x="176" y="92" w="1077" h="48" zOrder="8" masterID="A3510D9C-37B2-46C2-A006-C0528BE067FE">
+      <groupChildrenDescriptors>
+        <control controlID="7104C15B-DC18-49B3-9C4C-2E85CE93E8ED" controlTypeID="Tabs" x="0" y="0" w="1077" h="48" zOrder="0">
+          <borderVisible>False</borderVisible>
+          <interactiveData>
+            <entry title="HAUTE+COUTURE">
+              <area shape="0" alt="" ID="{4EEFCB96-81DF-429C-9FBE-249F7111960C}" coords="(0,0,118.666664123535,48)"/>
+              <events title=""/>
+            </entry>
+            <entry title="FASHION">
+              <area shape="0" alt="" ID="{8C7182C4-7420-4C91-B2C3-ACAD86592AEF}" coords="(119.666664123535,0,238.33332824707,48)"/>
+              <events title="">
+                <event eventType="atClick" isChecked="True">
+                  <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                    <target targetID="4D0E5BA7-7D40-4CDA-98FB-87F93E5BB282" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Change Visibility" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="1" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                        <param name="ForceFromInitValue" value="False" varType="11" description=""/>
+                        <param name="ForceSetVisible" value="False" varType="11" description=""/>
+                        <param name="Value" value="0" varType="3" description=""/>
+                        <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                      </command>
+                    </target>
+                  </behaviour>
+                </event>
+              </events>
+            </entry>
+            <entry title="WATCHES">
+              <area shape="0" alt="" ID="{30C7C28C-0A46-4385-B55E-1F2E3FBAF7CA}" coords="(239.33332824707,0,358,48)"/>
+              <events title=""/>
+            </entry>
+            <entry title="FINE+JEWELRY">
+              <area shape="0" alt="" ID="{06D066C1-5AA6-420B-B15B-244DD6A2FFC2}" coords="(359,0,477.666656494141,48)"/>
+              <events title=""/>
+            </entry>
+            <entry title="EYEWEAR">
+              <area shape="0" alt="" ID="{B171CEE4-81F9-4DD4-AD69-D6BA8BA81488}" coords="(478.666656494141,0,597.333312988281,48)"/>
+              <events title=""/>
+            </entry>
+            <entry title="FRAGRANCE">
+              <area shape="0" alt="" ID="{A5B19405-6AF8-467D-8ABC-CD51C413E9C1}" coords="(598.333312988281,0,717,48)"/>
+              <events title=""/>
+            </entry>
+            <entry title="MAKEUP">
+              <area shape="0" alt="" ID="{5F6AB2C5-017D-4118-9372-BC332C168906}" coords="(718,0,836.666687011719,48)"/>
+              <events title=""/>
+            </entry>
+            <entry title="SKINCARE">
+              <area shape="0" alt="" ID="{DF335A12-A4FF-41FB-84A0-BE431DF50DFE}" coords="(837.666687011719,0,956.333374023438,48)"/>
+              <events title=""/>
+            </entry>
+            <entry title="SKINCARE">
+              <area shape="0" alt="" ID="{5C1B9D07-6D5C-47BD-AD6D-BECB6FC9DBD4}" coords="(957.333374023438,0,1076,48)"/>
+              <events title=""/>
+            </entry>
+          </interactiveData>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>HAUTE+COUTURE%2CFASHION%2CWATCHES%2CFINE+JEWELRY%2CEYEWEAR%2CFRAGRANCE%2CMAKEUP%2CSKINCARE%2CSKINCARE</text>
+          <textColor>4279966491</textColor>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>1</selectedIndex>
+          <selectedColor>4279966491</selectedColor>
+          <dividerPercentHeight>0</dividerPercentHeight>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

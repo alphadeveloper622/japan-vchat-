@@ -1,0 +1,15 @@
+--recent np worked part
+chatting
+device setting
+instant meeting
+video call
+join(sharing)
+--recent worked part
+contacts
+dashboard
+invite
+login/regiser/forgot
+meetings
+segments
+todos
+users

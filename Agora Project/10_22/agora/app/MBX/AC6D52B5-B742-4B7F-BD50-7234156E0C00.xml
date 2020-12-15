@@ -1,0 +1,155 @@
+<mockup version="5.3" minAllowVersion="5.3" ID="AC6D52B5-B742-4B7F-BD50-7234156E0C00" platform="MtWeb" defaultW="1400" defaultH="2000" measureW="1400" measureH="2000" mobileScreenScale="0">
+  <controls controlCount="12">
+    <control controlID="6576802B-2E8C-42AA-A9C6-2A186EF1143B" controlTypeID="Panel" x="197" y="424" w="335" h="35" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="048EC738-4D96-4587-94D3-8376F2906362" controlTypeID="TextArea" x="0" y="71" w="240" h="74" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Maecenas+pretium+justo+at+nunc+imperdiet%2C+id+bibendum+ipsum+feugiat.+Nunc+vel+nisi+at+risus+rutrum+venenatis+eu+a+est.+Nam+suscipit+pretium+placerat.+Quisque+aliquet+dictum+sagittis.+Mauris+felis+neque%2C+imperdiet+consectetur+iaculis+eu%2C+dignissim+at+orci.+Nullam+pretium+orci+elit%2C+quis+elementum+arcu+pharetra+id.+Donec+pretium+velit+a+ipsum+ullamcorper+sodales.+Pellentesque+ut+neque+pulvinar%2C+congue+ipsum+id%2C+euismod+ex.+Donec+lacinia+orci+id+risus+tempor+fermentum.%0D%0A</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="957782FD-A23B-4437-9FCA-2016D21DC775" controlTypeID="__group__" x="6" y="0" w="234" h="24" zOrder="1">
+          <interactiveData>
+            <entry title="">
+              <area shape="0" alt="" ID="{2221B1DC-712B-407D-B108-3C21227E7FB6}" coords="(0,0,234,24)"/>
+              <events title="">
+                <event eventType="atClick" isChecked="True">
+                  <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                    <target targetID="6576802B-2E8C-42AA-A9C6-2A186EF1143B" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Resize" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="1" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                        <param name="ResizeDirection" value="0" varType="3" description=""/>
+                        <param name="ValueMode" value="0" varType="3" description=""/>
+                        <param name="FromWidth" value="0" varType="3" description=""/>
+                        <param name="FromHeight" value="0" varType="3" description=""/>
+                        <param name="ToWidth" value="0" varType="3" description=""/>
+                        <param name="ToHeight" value="120" varType="4" description=""/>
+                        <param name="ToX" value="0" varType="3" description=""/>
+                        <param name="ToY" value="0" varType="3" description=""/>
+                        <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                      </command>
+                    </target>
+                    <target targetID="61E19C4E-A97D-4F53-89CC-DAA87A94924A" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Move" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="1" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="MoveMode" value="0" varType="3" description=""/>
+                        <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                        <param name="FromX" value="0" varType="3" description=""/>
+                        <param name="FromY" value="0" varType="3" description=""/>
+                        <param name="ToX" value="0" varType="3" description=""/>
+                        <param name="ToY" value="0" varType="3" description=""/>
+                        <param name="ByX" value="0" varType="256" description=""/>
+                        <param name="ByY" value="120" varType="256" description=""/>
+                        <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                        <param name="MovePlaceVert" value="3" varType="3" description=""/>
+                        <param name="MovePlaceHori" value="1" varType="3" description=""/>
+                      </command>
+                    </target>
+                  </behaviour>
+                </event>
+              </events>
+            </entry>
+          </interactiveData>
+          <groupChildrenDescriptors>
+            <control controlID="29435005-2B78-4035-B5B0-9DAB53E98054" controlTypeID="Label" x="0" y="2" w="150" h="19" zOrder="0">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label21615610161156</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="23EF9DA1-FF89-42AB-B74E-6B23BD2EF184" controlTypeID="Icon" x="210" y="0" w="24" h="24" zOrder="1">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62446</iconCode>
+              </icon>
+              <URL>20F7CAC49D488300B867284006A2108F.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="AC84D800-9953-4814-BEC8-2C85F2749F86" controlTypeID="Border" x="0" y="0" w="335" h="35" zOrder="2">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+    <control controlID="61E19C4E-A97D-4F53-89CC-DAA87A94924A" controlTypeID="Panel" x="192" y="477" w="335" h="37" zOrder="1">
+      <groupChildrenDescriptors>
+        <control controlID="F9979320-AAE1-43D3-AD5C-A72A61AB9C79" controlTypeID="TextArea" x="0" y="71" w="240" h="74" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>Maecenas+pretium+justo+at+nunc+imperdiet%2C+id+bibendum+ipsum+feugiat.+Nunc+vel+nisi+at+risus+rutrum+venenatis+eu+a+est.+Nam+suscipit+pretium+placerat.+Quisque+aliquet+dictum+sagittis.+Mauris+felis+neque%2C+imperdiet+consectetur+iaculis+eu%2C+dignissim+at+orci.+Nullam+pretium+orci+elit%2C+quis+elementum+arcu+pharetra+id.+Donec+pretium+velit+a+ipsum+ullamcorper+sodales.+Pellentesque+ut+neque+pulvinar%2C+congue+ipsum+id%2C+euismod+ex.+Donec+lacinia+orci+id+risus+tempor+fermentum.%0D%0A</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="00DE2E5D-4F18-4676-B10F-899EAE7B915C" controlTypeID="__group__" x="6" y="0" w="234" h="24" zOrder="1">
+          <interactiveData>
+            <entry title="">
+              <area shape="0" alt="" ID="{2221B1DC-712B-407D-B108-3C21227E7FB6}" coords="(0,0,234,24)"/>
+              <events title="">
+                <event eventType="atClick" isChecked="True">
+                  <behaviour title="" isChecked="True" isWait="False" isLoop="False" execMode="emParallel">
+                    <target targetID="61E19C4E-A97D-4F53-89CC-DAA87A94924A" isChecked="True" isAutoRecovery="False" isLoop="False" execMode="emSequence">
+                      <command name="Resize" isChecked="True" descrition="">
+                        <param name="AniInterpolation" value="1" varType="3" description=""/>
+                        <param name="AniDuration" value="200" varType="3" description=""/>
+                        <param name="AniAutoReverse" value="False" varType="11" description=""/>
+                        <param name="AniLoop" value="False" varType="11" description=""/>
+                        <param name="AniInterpolationTypeOut" value="False" varType="11" description=""/>
+                        <param name="Delay" value="0" varType="3" description=""/>
+                        <param name="ValueFromCurrent" value="True" varType="11" description=""/>
+                        <param name="ResizeDirection" value="0" varType="3" description=""/>
+                        <param name="ValueMode" value="0" varType="3" description=""/>
+                        <param name="FromWidth" value="0" varType="3" description=""/>
+                        <param name="FromHeight" value="0" varType="3" description=""/>
+                        <param name="ToWidth" value="0" varType="3" description=""/>
+                        <param name="ToHeight" value="120" varType="4" description=""/>
+                        <param name="ToX" value="0" varType="3" description=""/>
+                        <param name="ToY" value="0" varType="3" description=""/>
+                        <param name="TerminateLoopByClick" value="True" varType="11" description=""/>
+                      </command>
+                    </target>
+                  </behaviour>
+                </event>
+              </events>
+            </entry>
+          </interactiveData>
+          <groupChildrenDescriptors>
+            <control controlID="E170C675-A4DD-4799-BC6D-A0C7B16E168F" controlTypeID="Label" x="0" y="2" w="150" h="19" zOrder="0">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Label21615610161156</text>
+              <lineSpacing>0</lineSpacing>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+            <control controlID="6B3039C0-724B-41FF-85C7-4A1DF0F84421" controlTypeID="Icon" x="210" y="0" w="24" h="24" zOrder="1">
+              <icon>
+                <ID/>
+                <iconFontName>jdIonicons</iconFontName>
+                <iconCode>62446</iconCode>
+              </icon>
+              <URL>20F7CAC49D488300B867284006A2108F.svg</URL>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="E78CB604-6E0A-4B9B-9483-F75B6A858E08" controlTypeID="Border" x="0" y="0" w="335" h="37" zOrder="2">
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <thinkness>1</thinkness>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

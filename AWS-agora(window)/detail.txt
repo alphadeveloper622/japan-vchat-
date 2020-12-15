@@ -1,0 +1,9 @@
+DW%KVLdovAuw?6TQhX@by7DfGfOc&))E
+Administrator
+ec2-18-217-75-107.us-east-2.compute.amazonaws.com
+private ip:172.31.41.32
+public ip:18.217.75.107
+
+anydesk
+151 883 547/ec2amaz-f57iatb/administrator
+pass1234567890

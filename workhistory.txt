@@ -1,0 +1,73 @@
+opensource is connect.zip
+connect source consist of laravel-backend and vue-frontend.
+connect.zip is product for selling.
+when running,it require access code from thirty part service.
+problem is this part is cracked.
+
+my working history:
+1) i have run opensource in local.
+ step1: pls uncompress connect.zip.
+ step2: pls modify next part. 
+       vendor/mint/service/src/Repositories/installRepository.php
+
+public function install() : void
+{      
+        .....
+
+        // $response = Http::get($url);
+
+        // if (! Arr::get($response, 'status')) {
+        //     throw ValidationException::withMessages(['message' => Arr::get($response, 'message')]);
+        // }
+
+        // $checksum = Arr::get($response, 'checksum');
+
+        $this->setDBEnv();
+
+        $this->migrateDB();
+        
+        $this->populateRole();
+
+        $this->populatePermission();
+
+        $this->assignPermission();
+
+        $this->makeAdmin();
+
+        // SysHelper::setApp(['INSTALLED' => $checksum]);
+        // SysHelper::setApp(['ACCESS_CODE' => request('access_code')]);
+        // SysHelper::setApp(['EMAIL' => request('envato_email')]);
+        // SysHelper::setEnv(['APP_ENV' => 'production']);
+        SysHelper::setApp(['INSTALLED' => '123']);
+        SysHelper::setApp(['ACCESS_CODE' => '123456']);
+        SysHelper::setApp(['EMAIL' => 'admin@admin.com']);
+        SysHelper::setEnv(['APP_ENV' => 'production']);
+
+        if (\File::exists(public_path('storage'))) {
+            \File::deleteDirectory(public_path('storage'));
+        }
+
+        \Artisan::call('storage:link');
+    }
+step3: pls install python2 and set env file of project for database part. 
+step4: pls run next commands in root directory of project.
+      composer install
+      yarn install
+      yarn dev
+      php artisan serv
+step5:pls run browser
+      then you can show login dialog after a few minutes.
+2) i found recently auth part in both laravel and vue.
+for vue:
+	resources/js/router
+	project logout unauthed login in index.js and setup.js
+for laravel:
+        app/Repositories/Auth/LoginRepository.php
+	project success login in validateLogin() function and create session.
+        but after that,i think project destroy session.
+        finally login using api of vue have fail.
+	i don't find reason.
+i think you remove all auth part of laravel and vue.
+this require some time.
+i believe success.
+cheers

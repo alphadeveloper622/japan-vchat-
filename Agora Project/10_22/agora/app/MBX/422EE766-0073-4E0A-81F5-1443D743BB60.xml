@@ -1,0 +1,13 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="40F25B59-357F-4D38-9EF5-75CDE01E11C8" platform="MtWeb" defaultW="1928" defaultH="1024" measureW="1928" measureH="912" mobileScreenScale="0">
+  <controls controlCount="1">
+    <control controlID="C3D274CA-95E4-49A1-A282-5806804A0D52" controlTypeID="Image" x="0" y="0" w="1920" h="969" zOrder="0">
+      <URL>DAC892F61087827EA38422C61C0D0837.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4293522165</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>Segoe+UI</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

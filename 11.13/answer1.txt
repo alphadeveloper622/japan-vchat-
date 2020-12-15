@@ -1,0 +1,10 @@
+https://www.eztalks.com/video-conference/difference-between-webinar-and-video-conferencing.html#:~:text=Video%20conferencing%3A%20It%20allows%20two,people%20situated%20at%20different%20locations.&text=Webinar%3A%20It%20is%20typically%20a,of%20interaction%20with%20the%20audiences.
+
+
+参考資料です。
+まず、ビデオ会議を実装します。
+次に、Web会議（バージョン2.0）を実装します。
+WebInarは、ビデオ会議と同じになりました。
+
+ウェブサイトを使用するWebRTCがモバイルで利用できるようになりました。
+心配しないでください。

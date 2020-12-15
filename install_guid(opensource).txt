@@ -1,0 +1,18 @@
+//connect building//
+install xampp
+install python2
+
+composer install
+yarn install
+yarn dev
+php artisan serv
+//////////////laravel and vue running/////////
+composer install
+cp .env.example .env
+Update .env and set your database credentials
+php artisan migrate
+php artisan db:seed
+php artisan passport:install
+npm install
+npm run dev
+php artisan serve
